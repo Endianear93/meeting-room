@@ -1,0 +1,1 @@
+{"name":"simple-shared-meeting-room","version":"1.0.0","private":true,"description":"토큰 없는 공동 회의실 + 편집 가능한 PPTX","scripts":{"start":"node server.js"},"engines":{"node":">=20"}}
