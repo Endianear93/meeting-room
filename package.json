@@ -1,0 +1,6 @@
+{
+  "name": "meeting-room", "version": "1.0.0", "private": true,
+  "description": "Token-free collaborative production meeting room",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=20"}
+}
